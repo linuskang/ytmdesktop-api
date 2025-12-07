@@ -1,6 +1,6 @@
 # ytmdesktop-api
 
-Simple wrapper API for YTM-Desktop to fetch current song info.
+Simple wrapper API for [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) to fetch current song info.
 
 ## Get Started
 
