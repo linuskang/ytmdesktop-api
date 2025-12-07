@@ -4,7 +4,8 @@
   "description": "Simple wrapper API for YTM-Desktop to fetch current song info.",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.js"
   },
   "keywords": [],
   "author": "linuskang",
